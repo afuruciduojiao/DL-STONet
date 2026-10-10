@@ -1,2 +1,2 @@
-# LIPD
-# Spatio-Temporal Learning Network for Lightning Initiation Prediction
+# DL-STONet
+# DL-STONet: dual-label spatiotemporal network for forecasting lightning onset
